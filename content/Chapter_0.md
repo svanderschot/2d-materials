@@ -101,7 +101,37 @@ $$ f=\frac{E_f}{h} = \frac{\Delta E}{h} = \frac{19.36\cdot 10^{-19}}{6.62607015 
 
 
 ## Electrische en magnetische velden
-### Versnellen elektron in elektrisch veld 
+### Versnellen elektron in elektrisch veld
+
+Wanneer je een **elektron** 'plaatst' tussen 2 **geladen platen** stoot de negatieve plaat het elektron af, en trekt de positieve plaat het elektron juist aan. Hierdoor gaat het elektron **versnellen** in de richting van de positieve plaat.
+
+Wat er precies gebeurt, is dat het elektron versnelt wordt door het **homogene elektrische veld** tussen de platen. In praktijk wordt er **elektrische energie** omgezet in **kinetische energie**. De hoeveelheid energie is opvallend genoeg niet afhankelijk van de afstand tussen de platen. Je kan deze berekenen met de volgende formule:
+
+```{math}
+:label: eq_E_elektron
+
+\Delta E_{el} = q\cdot U
+```
+```{note} In deze formule
+:class: dropdown
+:open: false
+:icon: false
+- $\Delta E_{el}$: De elektrische energie dat het elektron erbij krijgt in J
+- $q$ de lading in C(in het geval van het elektron $e = -1.602\cdot 10^{-19}$C)
+- $U$ het spanningsverschil tussen de platen in V
+```
+
+```{figure} figures/H0_Eveld.png
+:label: fig_Eveld
+:width: 30%
+:align: left
+
+Versnellen van een elektron in een homogeen elektrisch veld tussen 2 geladen platen
+
+Uit [Question by OpenStax, CC BY 4.0](https://openstax.org/details/books/college-physics-2e?Book%20details)
+```
+
+In {numref}`Afbeelding {number} <fig_Eveld>`
 
 
 ### Buigen elektron in magnetisch veld 
