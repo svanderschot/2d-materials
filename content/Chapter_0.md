@@ -24,7 +24,7 @@ E_f = h \cdot f
 :open: false
 :icon: false
 - $E_f$: De energie van de foton. Eenheid: J of eV
-- $h$: De constante van planck. Te vinden in BINAS tabel 7. Altijd gelijk aan $h=6,62607015 \cdot 10^{-34}Js$
+- $h$: De constante van planck. Te vinden in BINAS tabel 7. Altijd gelijk aan $h=6,62607015 \cdot 10^{-34}\;\mathrm{Js}$
 - $f$: De frequentie van het foton.
 ```
 
@@ -37,8 +37,8 @@ $$ E_f = \frac{h \cdot c}{\lambda}$$
 :open: false
 :icon: false
 - $E_f$: De energie van de foton in *J of eV*
-- $h$: De constante van planck. Te vinden in BINAS tabel 7. Altijd gelijk aan $h=6,62607015 \cdot 10^{-34}Js$
-- $c$: De lichtsnelheid. Te vinden in BINAS tabel 7. Altijd gelijk aan $3 \cdot 10^{8}$ m/s
+- $h$: De constante van planck. Te vinden in BINAS tabel 7. Altijd gelijk aan $h=6,62607015 \cdot 10^{-34}\;\mathrm{Js}$
+- $c$: De lichtsnelheid. Te vinden in BINAS tabel 7. Altijd gelijk aan $3 \cdot 10^{8}\;\mathrm{m/s}$
 - $\lambda$: De golflengte van het licht *in m*
 ```
 
@@ -52,7 +52,7 @@ De energie van een elektron in een bepaalde baan (schil) kan berekend worden met
 ```{math}
 :label: eq_Bohr
 
-E_n = \frac{-13.6eV}{n^2}
+E_n = \frac{-13.6\;\mathrm{eV}}{n^2}
 ```
 ```{note} In deze formule
 :class: dropdown
@@ -62,13 +62,14 @@ E_n = \frac{-13.6eV}{n^2}
 - $n$: Het nummer van de baan (begint bij 1)
 ```
 
-```{figure} https://commons.wikimedia.org/wiki/Category:Bohr_model#/media/File:Bohr_atom_model.svg
+
+```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 :label: fig_foton
 :width: 50%
 :align: left
 
 Een foton ontstaat door het terugvallen van een elektron. \
-Door JabberWok, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2639910
+Door [JabberWok, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=2639910)
 ```
 
 ```{exercise}
