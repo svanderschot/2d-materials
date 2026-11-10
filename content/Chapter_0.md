@@ -3,8 +3,6 @@ kernelspec:
   name: python3
   display_name: 'Python 3'
 
-numbering:
-  title: true
 ---
 # Voorkennis
 
@@ -62,6 +60,15 @@ E_n = \frac{-13.6\;\mathrm{eV}}{n^2}
 - $n$: Het nummer van de baan (begint bij 1)
 ```
 
+```{note} Waarom de "-"?
+:class: dropdown
+:open: false
+:icon: false
+In de formule hierboven staat er een min voor de formule. De energie van een elektron in een schil wordt gezien als negatief. In andere woorden: een atoom is voor een elektron een **energieput**. Hoe dichter de elektron bij de atoom kern, hoe lager de energie.
+
+Een elektron kan ook ontsnappen uit de put. Dit heet **ionisatie** en gebeurt als de elektron meer energie extra heeft dan 13.6 eV ten opzichte van de grondtoetstand (bij n=1)
+```
+
 
 ```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 :label: fig_foton
@@ -103,7 +110,7 @@ $$ f=\frac{E_f}{h} = \frac{\Delta E}{h} = \frac{19.36\cdot 10^{-19}}{6.62607015 
 ## Electrische en magnetische velden
 ### Versnellen elektron in elektrisch veld
 
-Wanneer je een **elektron** 'plaatst' tussen 2 **geladen platen** stoot de negatieve plaat het elektron af, en trekt de positieve plaat het elektron juist aan. Hierdoor gaat het elektron **versnellen** in de richting van de positieve plaat.
+Wanneer je een **elektron** 'plaatst' tussen 2 **geladen platen** stoot de negatieve plaat het elektron af, en trekt de positieve plaat het elektron juist aan. Hierdoor gaat het elektron **versnellen** in de richting van de positieve plaat. Zie In {numref}`Afbeelding {number} <fig_Eveld>` hieronder.
 
 Wat er precies gebeurt, is dat het elektron versnelt wordt door het **homogene elektrische veld** tussen de platen. In praktijk wordt er **elektrische energie** omgezet in **kinetische energie**. De hoeveelheid energie is opvallend genoeg niet afhankelijk van de afstand tussen de platen. Je kan deze berekenen met de volgende formule:
 
@@ -117,7 +124,7 @@ Wat er precies gebeurt, is dat het elektron versnelt wordt door het **homogene e
 :open: false
 :icon: false
 - $\Delta E_{el}$: De elektrische energie dat het elektron erbij krijgt in J
-- $q$ de lading in C(in het geval van het elektron $e = -1.602\cdot 10^{-19}$C)
+- $q$ de lading in C (in het geval van het elektron $e = -1.602\cdot 10^{-19}$C)
 - $U$ het spanningsverschil tussen de platen in V
 ```
 
@@ -131,7 +138,6 @@ Versnellen van een elektron in een homogeen elektrisch veld tussen 2 geladen pla
 Uit [Question by OpenStax, CC BY 4.0](https://openstax.org/details/books/college-physics-2e?Book%20details)
 ```
 
-In {numref}`Afbeelding {number} <fig_Eveld>`
-
 
 ### Buigen elektron in magnetisch veld 
+Link naar [](#buigen-elektron-in-magnetisch-veld)
