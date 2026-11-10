@@ -8,7 +8,7 @@ De binnenkant van je potlood bestaat (voornamelijk) uit een mengsel van **grafie
 ### Een nobelprijs met plakband
 Het duurde nog tot 2004 totdat het Natuurkundigen lukte om één enkel laagje atomen van een stuk grafiet af te pellen. Uiteindelijk waren het Andre Geim (toen nog een Nederlander [^A_Geim]) en Konstantin Novoselov die het wél lukten. Ze gebruikten hiervoor simpelweg plakband. Ze plakten een klein laagje grafeen tussen 2 stukken plakband en trokken deze uit elkaar. Een deel van de grafeen bleef op het ene plakbandje plakken, en een ander deel op de andere. Als ze dit vaak genoeg bleven doen hielden ze uiteindelijk nog maar 1 laag atomen grafeen over.
 
-```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nobelpriset_i_fysik_2010.png/1280px-Nobelpriset_i_fysik_2010.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nobelpriset_i_fysik_2010.png/1280px-Nobelpriset_i_fysik_2010.png
 :label: fig_plakband
 :width: 80%
 :align: left
