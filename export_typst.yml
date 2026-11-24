@@ -15,7 +15,7 @@ project:
       show_cover_full: true               # Render a separate cover page before the title page. Default: true.
       show_title_page: true               # Render the title page after the cover page. Default: true.
       show_contributor_affiliations: true # Show affiliation lines under supervisor and committee names. Default: true.
-
+      show_abstract: false
       # Order of fixed front-matter part pages before the table of contents.
       # Part files are still declared in myst.yml under project.parts; this
       # option only controls their PDF order. Empty or missing parts are skipped.
@@ -223,10 +223,11 @@ project:
       #
       # Alternative wording example:
       title_page_formal_statement: |
-        submitted in partial fulfillment of the requirements for the degree of $thesis_degree
-        in $thesis_program
-        at $thesis_institution,
-        to be defended on $thesis_defense_date.
+        Deze module is ontwikkeld als onderdeel van het vak SL4400 Bètatechnische Onderwijsinnovatie. Ten behoeve van de master         Science Education and Communication aan de TU Delft
+        Onder begeleiding van:
+        - Rutger Ockhorst;
+        - Prof.dr. S.C. Conesa Boj.
+
 
       ## Basic/simple variant options (ignored by the centered formal variant):
       # Alignment of the title and subtitle block: left | center. Default: center.
@@ -252,14 +253,14 @@ project:
       show_colophon_cover_description: True     # Show the optional cover description row in the colophon publication table. Default: false.
       colophon_cover_description: The cover image is a template demonstration background.
       
-      show_colophon_confidentiality_statement: true       # Show the optional confidentiality statement above the colophon publication table. Default: false.
-      colophon_confidentiality_statement: This thesis is shared using a CC-BY-4.0 license.      
+      show_colophon_confidentiality_statement: false       # Show the optional confidentiality statement above the colophon publication table. Default: false.
+      colophon_confidentiality_statement: This document is shared using a CC-BY-4.0 license.      
       colophon_company_logo: content/assets/JBlogo.svg    # Optional secondary logo (e.g. company or research group) shown in the colophon when provided.
 
       # Optional fields shown in the colophon publication table:
       # colophon_printer: Printer name
       # colophon_publisher: Publisher name
-      colophon_copyright: © 2026 Freek Pols
+      # colophon_copyright: © 2026 Freek Pols
 
       
       # Optional custom text shown below the colophon publication table and above the template watermark.

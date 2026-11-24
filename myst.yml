@@ -42,7 +42,7 @@ project:
 extends:
   - toc.yml             # includes table of contents
   - export_typst.yml    # includes export configurations
-  - export_latex.yml    # includes export configurations
+  # - export_latex.yml    # includes export configurations
   - authors.yml         # includes author and contributor information
   - options.yml         # includes project-specific options and metadata
   
